@@ -21,4 +21,4 @@
 4、MySql
 5、SpringBoot
 6、Nginx
-6、阿里云ELB
+7、阿里云ELB
